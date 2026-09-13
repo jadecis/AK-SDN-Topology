@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/templates">
+        <file>templates/ryu/ryu_app_controller.py</file>
+        <file>templates/ryu/ryu_app_rest_routing.py</file>
+        <file>templates/ryu/algorithms.py</file>
+        <file>templates/ryu/base_algorithm.py</file>
+        <file>templates/ryu/sdn_topology.py</file>
+        <file>templates/ryu/algorithms_user/example_my_algorithm.py</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,49 @@
+# Qt / qmake build output
+/build*/
+/dist/
+Makefile
+Makefile.*
+.qmake.stash
+.qmake.cache
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.so.*
+*.a
+*.lib
+*.pdb
+*.ilk
+/SNet
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+ui_*.h
+
+# Local IDE and assistant settings
+*.pro.user*
+.idea/
+.vscode/
+.claude/
+.codex/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*~
+*.log
+.goutputstream-*
+.DS_Store
+Thumbs.db
+/demo-projects/

@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>host.png</file>
+        <file>switch.png</file>
+        <file>link.png</file>
+        <file>edit.png</file>
+        <file>open.png</file>
+        <file>python.png</file>
+        <file>save.png</file>
+        <file>save_as.png</file>
+        <file>controller.png</file>
+        <file>text.png</file>
+        <file>new.png</file>
+        <file>fullConnection.png</file>
+    </qresource>
+    <qresource prefix="/modern">
+        <file>modern/controller.svg</file>
+        <file>modern/switch.svg</file>
+        <file>modern/host.svg</file>
+        <file>modern/docker.svg</file>
+        <file>modern/terminal.svg</file>
+        <file>modern/log.svg</file>
+        <file>modern/link.svg</file>
+        <file>modern/text.svg</file>
+        <file>modern/edit.svg</file>
+        <file>modern/new.svg</file>
+        <file>modern/open.svg</file>
+        <file>modern/save.svg</file>
+        <file>modern/save_as.svg</file>
+        <file>modern/python.svg</file>
+        <file>modern/full_connection.svg</file>
+        <file>modern/align_h.svg</file>
+        <file>modern/align_v.svg</file>
+        <file>modern/clear_marks.svg</file>
+        <file>modern/run_mininet.svg</file>
+        <file>modern/run_ryu.svg</file>
+        <file>modern/ping.svg</file>
+        <file>modern/iperf.svg</file>
+        <file>modern/algorithm.svg</file>
+        <file>modern/theme.svg</file>
+        <file>modern/app.svg</file>
+        <file>modern/node_host.svg</file>
+        <file>modern/node_switch.svg</file>
+        <file>modern/node_controller.svg</file>
+    </qresource>
+</RCC>
