@@ -1,4 +1,5 @@
 #include "MetricDecoder.h"
+#include <QStringList>
 
 
 QVector<float> MetricDecoder::decode(QString data)
